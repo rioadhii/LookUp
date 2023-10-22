@@ -34,3 +34,6 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+*.db
+*.db-shm
+*.db-wal
